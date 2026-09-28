@@ -44,3 +44,9 @@
 - Objects that are visible in a program G U I are known as controls.
 
 - Commonly used controls are Labels, Buttons, and TextBoxes
+
+## .NET Framework
+
+- .NET is a collection of classes and other code that can be used to create programs for Windows operating system
+
+- C# is a language supported by .NET
