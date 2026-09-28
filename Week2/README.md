@@ -19,31 +19,31 @@
 
 ## TextBox
 
-- A TextBox is used to receive input from the user.
+ A TextBox is used to receive input from the user.
 
 
 ## Variables
 
-- A variable is used to store a value.
+ A variable is used to store a value.
 
 
 ## Variable Components
 
-- Every variable has a name, value, and data type.
+ Every variable has a name, value, and data type.
 
 
 ## int Data Type
 
-- int is used for whole numbers.
+ int is used for whole numbers.
 
 ## Double Data Type
 
-- Double is used for numbers that can contain decimal values.
+ Double is used for numbers that can contain decimal values.
 
 
 ## decimal Data Type
 
-- " decimal " is useful when more precision is needed, especially for financial values.
+ " decimal " is useful when more precision is needed, especially for financial values.
 
 
 ## Variable Initialization
@@ -53,22 +53,22 @@ A variable must have a value before it can be used.
 
 ## String Data Type
 
-- A " string " is used to store text.
+ A " string " is used to store text.
 
 
 ## Arithmetic Operators
 
-- Arithmetic operators include " + ", " - ", " * ", " / ", and " % ".
+ Arithmetic operators include " + ", " - ", " * ", " / ", and " % ".
 
 
 ## Parsing
 
-- Parsing converts text input into a numeric value.
+ Parsing converts text input into a numeric value.
 
 
 ## ToString() Method
 
-- " ToString()` " converts a value to a string for displaying output.
+ " ToString()` " converts a value to a string for displaying output.
 
 
 ## Exception Handling
@@ -78,24 +78,24 @@ A variable must have a value before it can be used.
 
 ## Named Constants
 
-- Named constants are used for values that should not change.
+ Named constants are used for values that should not change.
 
 
 ## Math Class
 
-- The Math class is used for mathematical operations.
+ The Math class is used for mathematical operations.
 
 
 ## var Keyword
 
-- The " var " keyword allows the compiler to determine the variable’s data type automatically from the assigned value.
+ The " var " keyword allows the compiler to determine the variable’s data type automatically from the assigned value.
 
 
 ## Debugging
 
-- Debugging helps find and fix errors in a program.
+ Debugging helps find and fix errors in a program.
 
 
 ## Debugging Tools
 
-- Breakpoints, Locals Window, and Watch Window can help when debugging.
+ Breakpoints, Locals Window, and Watch Window can help when debugging.
