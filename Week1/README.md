@@ -30,34 +30,75 @@
 - 2.10 Dealing with Syntax Errors
 
 
-- C# is a programming language used to create applications.
 
-- Visual Studio is an IDE used to write, design, and run C# programs.
 
-- An object contains data and operations.
+## C# Programming Language
 
-- Properties control the appearance and behavior of an object.
+C# is a programming language used to create applications.
 
-- Methods are actions that an object can perform.
 
-- Controls are GUI objects such as Label, Button, and TextBox.
+## Visual Studio IDE
 
-- A Form is the main area where we design the application.
+Visual Studio is an IDE used to write, design, and run C# programs.
 
-- The Properties Window is used to change the properties of controls, such as Text, Name, Font, and Size.
 
-- C# Windows Forms applications are event-driven, meaning the program responds to actions such as clicking a button.
+## Objects
 
-- A Label is used to display text or output.
+An object contains data and operations.
 
-- A PictureBox is used to display images.
 
-- Comments are used to explain parts of the code.
+## Properties
 
-- Indentation and blank lines make code easier to read.
+Properties control the appearance and behavior of an object.
 
-- this.Close(); closes the current form.
 
-- Application.Exit(); closes the whole application.
+## Methods
 
-- Syntax errors happen when the C# code is written with incorrect syntax.
+Methods are actions that an object can perform.
+
+
+## Controls
+
+Controls are GUI objects such as Label, Button, and TextBox.
+
+
+## Forms
+A Form is the main area where we design the application.
+
+## Properties Window
+
+The Properties Window is used to change the properties of controls, such as Text, Name, Font, and Size.
+
+
+## Event-Driven Programming
+
+C# Windows Forms applications are event-driven, meaning the program responds to actions such as clicking a button.
+
+
+## Label Control
+
+A Label is used to display text or output.
+
+
+## PictureBox Control
+
+A PictureBox is used to display images.
+
+
+## Comments
+
+Comments are used to explain parts of the code.
+
+
+## Code Readability
+
+Indentation and blank lines make code easier to read.
+
+## this.Close()
+
+" this.Close(); " closes the current form.
+
+
+## Syntax Errors
+
+Syntax errors happen when C# code is written with incorrect syntax.
