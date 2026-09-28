@@ -1,5 +1,4 @@
-﻿
-## The picture of MassageBox
+﻿## The picture of MassageBox
 
 - This code displays a welcome message using " MessageBox.Show() " . 
 - When the program runs, a message box appears with the text **"Welcome to C# Programming Language ".
